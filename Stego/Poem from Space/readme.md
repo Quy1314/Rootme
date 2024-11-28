@@ -7,4 +7,4 @@ Before:
     ![image](https://github.com/user-attachments/assets/bac77b45-e38c-4a5d-8301-c6232fc73648)
 After:  
     ![image](https://github.com/user-attachments/assets/79f0fa95-a850-4ceb-af41-33ea5928bacb)  
-Password: '''RootMe{Wh1t3_Sp4c3}'''
+## Password: ```RootMe{Wh1t3_Sp4c3}```
